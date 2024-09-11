@@ -1,3 +1,24 @@
+# Login and Register Forms
+
+## Overview
+This project provides a simple implementation of login and registration forms using React. The forms are toggled between login and registration views and include basic features such as password visibility toggling.
+
+## Features
+- **Login Form**: Allows users to log in using their email/username and password.
+- **Registration Form**: Allows new users to register with a username, email, and password.
+- **Password Visibility Toggle**: Users can toggle the visibility of their password using eye icons.
+
+## Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+
+2. **Navigate to the Project Directory**:
+   cd your-repository
+3. **Install Dependencies**:
+npm install
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
